@@ -13,6 +13,9 @@
     display: flex;
     align-items: center;
 }
+.subtotal__gift > input {
+    margin-right: 3px;
+}
 .subtotal > button {
     background: #f0c14b;
     border-radius: 2px;
